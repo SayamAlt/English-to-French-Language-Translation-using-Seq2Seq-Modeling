@@ -4,7 +4,7 @@ A sequence to sequence (Seq2Seq) model which translates English sentences into t
 
 ![English to French Translation using Seq2Seq](https://miro.medium.com/max/1400/1*wPqahJXFKt8RPPgZvETUpw.jpeg)
 
-![Neural Language Translation Architecture](https://www.researchgate.net/publication/319392091/figure/fig1/AS:533435939000320@1504192446540/The-architecture-of-neural-machine-translation-model.png)
+![Neural Language Translation Architecture](https://miro.medium.com/max/1400/1*EPDNg1M45JXkASby_HiVOg.png)
 
 ## Overview:
 
