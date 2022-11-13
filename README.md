@@ -3,7 +3,8 @@
 A sequence to sequence (Seq2Seq) model which translates English sentences into their corresponding French sentences.
 
 ![English to French Translation using Seq2Seq](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fanalytics-vidhya%2Fenglish-to-french-machine-translation-system-in-python-a69b7b34fc0&psig=AOvVaw1Ob9bD39qDsQcskJOAfRjk&ust=1668414148850000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKC3hpbdqvsCFQAAAAAdAAAAABAE)
-![Neural Language Translation Architecture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FThe-architecture-of-neural-machine-translation-model_fig1_319392091&psig=AOvVaw36usmDvAcQAiJBHyZHRkj_&ust=1668414212052000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNj-mbTdqvsCFQAAAAAdAAAAABAv)
+
+![Neural Language Translation Architecture](https://www.researchgate.net/publication/319392091/figure/fig1/AS:533435939000320@1504192446540/The-architecture-of-neural-machine-translation-model.png)
 
 ## Overview:
 
